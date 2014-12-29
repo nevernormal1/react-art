@@ -11,7 +11,7 @@
 
 "use strict";
 
-require('art/modes/fast'); // Flip this to DOM mode for debugging
+require('art/modes/svg'); // Flip this to DOM mode for debugging
 
 var Transform = require('art/core/transform');
 var Mode = require('art/modes/current');
